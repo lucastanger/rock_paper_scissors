@@ -1,5 +1,4 @@
 # :fist::hand::v: Rock Paper Scissors with a CNN
-Rock Paper Scissors Detection using a Convolutional Neural Network
 
 [![GitHub](https://img.shields.io/github/license/lucastanger/rock_paper_scissors)](https://github.com/lucastanger/rock_paper_scissors/blob/master/LICENSE)
 ![GitHub issues](https://img.shields.io/github/issues/lucastanger/rock_paper_scissors)
@@ -18,8 +17,8 @@ This project emerged from the requirements of a study project. During the implem
 
 # Authors :busts_in_silhouette:
 
--   **Luca Stanger** - Frontend development & cluster orchestration - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
--   **Florian Drinkler** - Backend development, API maintenance and docker deployment - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
+-   **Luca Stanger** - Machine Learning Engineering - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
+-   **Florian Drinkler** - Machine Learning Engineering - [Student @ DHBW Stuttgart](https://www.dhbw-stuttgart.de/home/)
 
 # Copyright :copyright:
 
