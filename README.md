@@ -26,4 +26,4 @@ Copyright :copyright: 2020 Florian Drinkler, Luca Stanger
 
 # License :page_facing_up:
 
-This project is licensed under the **Apache License 2.0** - see the [LICENSE.MD](https://www.github.com/lucastanger/rock_paper_scissors/blob/master/LICENSE) files for details
+This project is licensed under the **MIT License** - see the [LICENSE.MD](https://www.github.com/lucastanger/rock_paper_scissors/blob/master/LICENSE) files for details
