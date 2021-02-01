@@ -1,4 +1,4 @@
 tensorflow==2.4.0
-numpy==1.18.5
+numpy==1.20.0
 matplotlib==3.3.3
 tensorflow_datasets==4.0.1
